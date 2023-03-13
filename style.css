@@ -1,0 +1,60 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;margin-left: 30%;
+}
+
+.sum-line {
+  border-top: 1px dotted black;
+}
+  *{
+    margin: 0;
+    padding: 0;
+  }
+.background-image{
+  background-image: url(image/sous\ marine.jpg);
+  
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+    
+    
+}
+  
+ .home{ 
+    
+    font-size: large;
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .navbar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+  }
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+  }
+  
+  .Our_Products{
+    margin-right: 30%;text-decoration: none;
+  }
+  li a{
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  nav li{
+    list-style: none;
+    
+  }
+  
